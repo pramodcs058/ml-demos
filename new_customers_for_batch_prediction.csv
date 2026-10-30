@@ -1,0 +1,16 @@
+CustomerID,TenureMonths,ContractType,InternetService,MonthlyCharges,TotalCharges,TechSupport,OnlineSecurity,PaymentMethod,PaperlessBilling,AutoPay,SupportTickets90d,AvgMonthlyDataGB
+NEW001,3,Month-to-month,Fiber optic,129.0,379.26,No,No,Electronic check,Yes,No,5,230.0
+NEW002,5,Month-to-month,Fiber optic,118.0,578.2,No,No,Electronic check,Yes,No,4,180.0
+NEW003,8,Month-to-month,DSL,76.0,595.84,No,No,Electronic check,Yes,No,3,75.0
+NEW004,11,One year,Fiber optic,105.0,1131.9,No,No,Credit card,Yes,No,3,145.0
+NEW005,14,Month-to-month,DSL,83.0,1138.76,Yes,No,Electronic check,Yes,Yes,1,82.0
+NEW006,18,One year,Fiber optic,97.0,1711.08,No,Yes,Bank transfer,Yes,No,3,165.0
+NEW007,22,Month-to-month,Fiber optic,142.0,3061.52,No,No,Electronic check,Yes,No,6,310.0
+NEW008,27,One year,DSL,69.0,1825.74,Yes,Yes,Bank transfer,No,Yes,1,70.0
+NEW009,31,Month-to-month,Fiber optic,116.0,3524.08,No,No,Electronic check,Yes,No,4,210.0
+NEW010,36,Two year,DSL,58.0,2046.24,Yes,Yes,Credit card,No,Yes,0,55.0
+NEW011,42,Two year,Fiber optic,132.0,5433.12,Yes,Yes,Bank transfer,Yes,Yes,1,275.0
+NEW012,48,One year,DSL,72.0,3386.88,Yes,Yes,Credit card,No,Yes,0,65.0
+NEW013,54,Two year,Fiber optic,125.0,6615.0,Yes,Yes,Bank transfer,Yes,Yes,1,260.0
+NEW014,61,Two year,DSL,65.0,3885.7,Yes,Yes,Mailed check,No,Yes,0,58.0
+NEW015,68,Two year,Fiber optic,108.0,7197.12,Yes,Yes,Credit card,Yes,Yes,1,240.0
